@@ -29,6 +29,8 @@ Digitalize/Augment the Mob Control Drill used by police using augmented reality 
 6. Comfortable use of AR glasses for an accurate training experience.
 7. Real feel in terms of sound, weather, wind, etc.
 
+Certainly! Here's the updated section:
+
 ### Team Members & Responsibilities:
 
 • SAI HARISH GURRAM - AR/VR Game Development in Unity/Unreal Engine.
