@@ -33,7 +33,7 @@ Certainly! Here's the updated section:
 
 ### Team Members & Responsibilities:
 
-• SAI HARISH GURRAM - AR/VR Game Development in Unity/Unreal Engine.
-• KHYATHI KANCHARLA - Database Management and Frontend Developer.
-• VINAY PALAKONDA - UI/UX Developer.
-• KESAVA MANIKANTA - 3D Modelling and Designing.
+1. SAI HARISH GURRAM - AR/VR Game Development in Unity/Unreal Engine.
+2. KHYATHI KANCHARLA - Database Management and Frontend Developer.
+3. VINAY PALAKONDA - UI/UX Developer.
+4. KESAVA MANIKANTA - 3D Modelling and Designing.
