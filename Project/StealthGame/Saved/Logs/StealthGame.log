@@ -3250,3 +3250,272 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.12.28-09.01.02:168][152]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/M_DetectionZone_Auto4
 [2023.12.28-09.01.02:168][152]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/M_DetectionZone_Auto43D5367D94CD443D7134BDE8B246C190F.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/M_DetectionZone_Auto4.uasset'
 [2023.12.28-09.01.02:168][152]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.12.28-09.10.39:615][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.28-09.10.41:277][  2]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.28-09.10.41:328][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.28-09.10.41:348][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.28-09.10.41:364][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.28-09.10.50:410][162]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.12.28-09.10.50:448][162]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.12.28-09.10.50:455][162]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.12.28-09.10.50:467][163]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.12.28-09.11.00:454][755]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Lever
+[2023.12.28-09.11.00:461][755]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.12.28-09.11.20:099][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever
+[2023.12.28-09.11.20:100][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-09.11.20:100][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-09.11.20:270][951]LogViewport: Scene viewport resized to 1108x873, mode Windowed.
+[2023.12.28-09.11.22:988][104]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-09.11.22:988][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.11.25:777][126]LogDerivedDataCache: C:/Users/saiha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1283 files in 2027 folders with total size 39 MiB.
+[2023.12.28-09.11.26:148][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.28-09.11.26:156][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.029
+[2023.12.28-09.11.26:156][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Sensors_Alarms/BP_Lever] ([2] browsable assets)...
+[2023.12.28-09.11.26:156][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Sensors_Alarms/BP_Lever]
+[2023.12.28-09.11.26:165][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Sensors_Alarms/BP_Lever_Auto5
+[2023.12.28-09.11.26:165][126]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/BP_Lever_Auto5DEB1EFD8419677DDD0DB60998F66E988.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/Blueprints/Sensors_Alarms/BP_Lever_Auto5.uasset'
+[2023.12.28-09.11.26:165][126]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.12.28-09.11.45:384][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-09.21.21:744][ 51]BlueprintLog: New page: Compile BP_Lever
+[2023.12.28-09.21.21:778][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.28-09.21.28:013][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.12.28-09.21.28:013][379]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.12.28-09.21.28:018][379]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_F889D2D58AE029CA01_1256959688
+[2023.12.28-09.21.28:019][379]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_F889D2D58AE029CA01_1256959688
+[2023.12.28-09.21.44:224][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever_C
+[2023.12.28-09.21.44:224][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever_C
+[2023.12.28-09.21.44:227][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever as actor: BP_Lever_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Lever_C_0
+[2023.12.28-09.21.44:230][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever as actor: BP_Lever_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Lever_C_0
+[2023.12.28-09.21.45:359][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever_C
+[2023.12.28-09.21.45:359][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever_C
+[2023.12.28-09.21.45:363][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever as actor: BP_Lever_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Lever_C_UAID_F889D2D58AE029CA01_1274305689
+[2023.12.28-09.21.45:367][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever as actor: BP_Lever_C /Game/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Lever_C_UAID_F889D2D58AE029CA01_1274305689
+[2023.12.28-09.21.47:614][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.28-09.21.47:620][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/3/PR/CY2AUZP06WCMCW1H96R3IC_Auto6
+[2023.12.28-09.21.47:620][439]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/CY2AUZP06WCMCW1H96R3IC_Auto6D93FAB36487870067D68E0A5E1320BF5.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/3/PR/CY2AUZP06WCMCW1H96R3IC_Auto6.uasset'
+[2023.12.28-09.21.47:624][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/1/5N/J69BANM5B851ZR2MPECEA1_Auto6
+[2023.12.28-09.21.47:624][439]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/J69BANM5B851ZR2MPECEA1_Auto67F8059EC415670C64E91CDA433C1743B.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/1/5N/J69BANM5B851ZR2MPECEA1_Auto6.uasset'
+[2023.12.28-09.21.47:625][439]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.030
+[2023.12.28-09.21.47:625][439]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2023.12.28-09.21.47:625][439]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Sensors_Alarms/BP_Lever] ([2] browsable assets)...
+[2023.12.28-09.21.47:656][439]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever]
+[2023.12.28-09.21.47:656][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Sensors_Alarms/BP_Lever]
+[2023.12.28-09.21.47:661][439]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Sensors_Alarms/BP_Lever_Auto6
+[2023.12.28-09.21.47:661][439]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/BP_Lever_Auto6269044CD49C52264A35FC9AE1A0E07DD.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/Blueprints/Sensors_Alarms/BP_Lever_Auto6.uasset'
+[2023.12.28-09.21.47:662][439]LogFileHelpers: Auto-saving content packages took 0.037
+[2023.12.28-09.22.28:058][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.28-09.22.28:065][789]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.28-09.22.28:065][789]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.28-09.22.28:067][789]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 122 ms)
+[2023.12.28-09.22.28:069][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.28-09.22.28:069][789]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2023, 8:22:28 pm)
+[2023.12.28-09.22.28:094][789]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.28-09.22.28:100][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006365s)
+[2023.12.28-09.22.28:100][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006455s)
+[2023.12.28-09.22.28:117][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.28-09.22.28:119][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-09.22.28:120][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-09.22.28:120][789]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.28-09.22.28:121][789]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.28-09.22.28:121][789]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.28-09.22.28:121][789]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.28-09.22.28:121][789]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.28-09.22.28:122][789]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.28-09.22.28:122][789]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 665 ms)
+[2023.12.28-09.22.28:122][789]LogPlayLevel: PIE: World Init took: (0.002920s)
+[2023.12.28-09.22.28:122][789]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.28-09.22.28:122][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.28-09.22.28:122][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.28-09.22.28:123][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.28-09.22.28:123][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.28-09.22.28:123][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.28-09.22.28:125][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.28-09.22.28:197][789]LogAudioMixer: Display: Using Audio Hardware Device Headphones (M417SP RGB)
+[2023.12.28-09.22.28:197][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.28-09.22.28:197][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.28-09.22.28:197][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.28-09.22.28:198][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.12.28-09.22.28:198][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.12.28-09.22.28:200][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.12.28-09.22.28:200][789]LogInit: FAudioDevice initialized with ID 28.
+[2023.12.28-09.22.28:200][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.12.28-09.22.28:200][789]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonMap'.
+[2023.12.28-09.22.28:200][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.28-09.22.28:203][789]LogLoad: Game class is 'GM_StealthGameMode_C'
+[2023.12.28-09.22.28:206][789]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.12.28-14.52.28
+[2023.12.28-09.22.28:206][789]LogWorld: Bringing up level for play took: 0.002678
+[2023.12.28-09.22.28:209][789]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.12.28-09.22.28:213][789]PIE: Server logged in
+[2023.12.28-09.22.28:213][789]PIE: Play in editor total start time 0.149 seconds.
+[2023.12.28-09.22.35:555][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-09.22.35:555][222]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.28-09.22.35:555][222]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-09.22.35:555][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.22.35:555][222]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.28-09.22.35:562][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.28-09.22.35:567][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.22.35:584][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.28-09.22.35:584][222]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.12.28-09.22.35:584][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.28-09.22.35:586][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.12.28-09.22.35:591][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-09.22.35:596][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.28-09.22.35:668][223]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.12.28-09.22.43:964][704]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.28-09.22.43:969][704]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.28-09.22.43:969][704]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.28-09.22.43:977][704]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8 ms (total: 131 ms)
+[2023.12.28-09.22.43:977][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.28-09.22.43:977][704]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2023, 8:22:43 pm)
+[2023.12.28-09.22.43:977][704]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.28-09.22.43:984][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005579s)
+[2023.12.28-09.22.43:984][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005621s)
+[2023.12.28-09.22.43:997][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.28-09.22.43:999][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-09.22.43:999][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-09.22.43:999][704]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.28-09.22.44:000][704]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.28-09.22.44:000][704]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.28-09.22.44:000][704]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.28-09.22.44:000][704]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.28-09.22.44:001][704]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.28-09.22.44:001][704]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 666 ms)
+[2023.12.28-09.22.44:001][704]LogPlayLevel: PIE: World Init took: (0.003386s)
+[2023.12.28-09.22.44:001][704]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.12.28-09.22.44:001][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.28-09.22.44:002][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.28-09.22.44:002][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.28-09.22.44:002][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.28-09.22.44:002][704]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.28-09.22.44:002][704]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.28-09.22.44:002][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.28-09.22.44:002][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.28-09.22.44:002][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.28-09.22.44:002][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.28-09.22.44:002][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.28-09.22.44:005][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.28-09.22.44:070][704]LogAudioMixer: Display: Using Audio Hardware Device Headphones (M417SP RGB)
+[2023.12.28-09.22.44:070][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.28-09.22.44:070][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.28-09.22.44:070][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.28-09.22.44:070][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.12.28-09.22.44:070][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.12.28-09.22.44:073][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.12.28-09.22.44:073][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.12.28-09.22.44:073][704]LogInit: FAudioDevice initialized with ID 29.
+[2023.12.28-09.22.44:074][704]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonMap'.
+[2023.12.28-09.22.44:074][704]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.28-09.22.44:076][704]LogLoad: Game class is 'GM_StealthGameMode_C'
+[2023.12.28-09.22.44:079][704]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.12.28-14.52.44
+[2023.12.28-09.22.44:079][704]LogWorld: Bringing up level for play took: 0.002726
+[2023.12.28-09.22.44:082][704]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.12.28-09.22.44:086][704]PIE: Server logged in
+[2023.12.28-09.22.44:086][704]PIE: Play in editor total start time 0.117 seconds.
+[2023.12.28-09.23.12:545][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-09.23.12:545][647]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.28-09.23.12:545][647]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-09.23.12:545][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.23.12:545][647]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.28-09.23.12:550][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.28-09.23.12:556][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.23.12:573][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-09.23.12:574][647]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.12.28-09.23.12:574][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.28-09.23.12:577][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.12.28-09.23.12:586][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.12.28-09.23.12:668][648]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.12.28-09.23.46:358][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-09.23.46:473][ 12]LogSavePackage: Moving output files for package: /Game/Blueprints/Sensors_Alarms/BP_Lever
+[2023.12.28-09.23.46:473][ 12]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/BP_Lever6B1822C5420D816D464A95B49EC8F79C.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Content/Blueprints/Sensors_Alarms/BP_Lever.uasset'
+[2023.12.28-09.23.46:487][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 445 ms)
+[2023.12.28-09.23.46:488][ 12]AssetCheck: New page: Asset Save: BP_Lever
+[2023.12.28-09.23.46:488][ 12]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever
+[2023.12.28-09.24.02:993][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.28-09.24.03:108][879]LogSavePackage: Moving output files for package: /Game/Blueprints/Sensors_Alarms/BP_Lever
+[2023.12.28-09.24.03:108][879]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/BP_LeverD07CE1894EC7B8AAA985FD98C7B8A3DC.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Content/Blueprints/Sensors_Alarms/BP_Lever.uasset'
+[2023.12.28-09.24.03:118][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 570 ms)
+[2023.12.28-09.24.03:120][879]AssetCheck: New page: Asset Save: BP_Lever
+[2023.12.28-09.24.03:120][879]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever
+[2023.12.28-09.27.53:542][236]BlueprintLog: New page: Compile BP_Lever
+[2023.12.28-09.27.53:584][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.12.28-09.28.03:015][505]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.28-09.28.03:021][505]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.12.28-09.28.03:021][505]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2023.12.28-09.28.03:024][505]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2 ms (total: 133 ms)
+[2023.12.28-09.28.03:024][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.28-09.28.03:024][505]PIE: New page: PIE session: ThirdPersonMap (28-Dec-2023, 8:28:03 pm)
+[2023.12.28-09.28.03:024][505]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.28-09.28.03:030][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006011s)
+[2023.12.28-09.28.03:030][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThirdPersonMap.ThirdPersonMap to /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006063s)
+[2023.12.28-09.28.03:046][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.28-09.28.03:049][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.28-09.28.03:049][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.28-09.28.03:049][505]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.12.28-09.28.03:050][505]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.12.28-09.28.03:050][505]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.12.28-09.28.03:050][505]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.12.28-09.28.03:050][505]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.12.28-09.28.03:051][505]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2023.12.28-09.28.03:051][505]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 668 ms)
+[2023.12.28-09.28.03:052][505]LogPlayLevel: PIE: World Init took: (0.002942s)
+[2023.12.28-09.28.03:052][505]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.28-09.28.03:052][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.28-09.28.03:052][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.28-09.28.03:052][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.28-09.28.03:052][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.28-09.28.03:052][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.28-09.28.03:054][505]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.28-09.28.03:119][505]LogAudioMixer: Display: Using Audio Hardware Device Headphones (M417SP RGB)
+[2023.12.28-09.28.03:120][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.28-09.28.03:120][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.28-09.28.03:120][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.28-09.28.03:121][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.12.28-09.28.03:121][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.12.28-09.28.03:123][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.12.28-09.28.03:123][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.12.28-09.28.03:123][505]LogInit: FAudioDevice initialized with ID 30.
+[2023.12.28-09.28.03:123][505]LogAudio: Display: Audio Device (ID: 30) registered with world 'ThirdPersonMap'.
+[2023.12.28-09.28.03:123][505]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.28-09.28.03:126][505]LogLoad: Game class is 'GM_StealthGameMode_C'
+[2023.12.28-09.28.03:129][505]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2023.12.28-14.58.03
+[2023.12.28-09.28.03:129][505]LogWorld: Bringing up level for play took: 0.002740
+[2023.12.28-09.28.03:132][505]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.12.28-09.28.03:136][505]PIE: Server logged in
+[2023.12.28-09.28.03:136][505]PIE: Play in editor total start time 0.115 seconds.
+[2023.12.28-09.28.07:044][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-09.28.07:044][731]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThirdPersonMap
+[2023.12.28-09.28.07:045][731]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.28-09.28.07:045][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.28.07:046][731]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.12.28-09.28.07:053][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.28-09.28.07:059][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.28-09.28.07:076][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.28-09.28.07:076][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.12.28-09.28.07:076][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.28-09.28.07:079][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.12.28-09.28.07:084][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.28-09.28.07:087][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.28-09.28.07:171][732]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.12.28-09.32.28:042][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.12.28-09.32.28:047][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/1/5N/J69BANM5B851ZR2MPECEA1_Auto7
+[2023.12.28-09.32.28:047][588]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/J69BANM5B851ZR2MPECEA1_Auto76065D3CE4CCC1A68EC62FD970CD763AA.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/__ExternalActors__/Maps/ThirdPersonMap/1/5N/J69BANM5B851ZR2MPECEA1_Auto7.uasset'
+[2023.12.28-09.32.28:048][588]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonMap' took 0.025
+[2023.12.28-09.32.28:048][588]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
+[2023.12.28-09.32.28:048][588]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Sensors_Alarms/BP_Lever] ([2] browsable assets)...
+[2023.12.28-09.32.28:129][588]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Sensors_Alarms/BP_Lever.BP_Lever]
+[2023.12.28-09.32.28:129][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Sensors_Alarms/BP_Lever]
+[2023.12.28-09.32.28:189][588]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Sensors_Alarms/BP_Lever_Auto7
+[2023.12.28-09.32.28:189][588]LogSavePackage: Moving '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/BP_Lever_Auto7C71CF1434B3BC6799D25129F17B81901.tmp' to '../../../../Rajasthan Hackathon/RJPOLICE_HACK_524_CogniReality-Innovators_2/Project/StealthGame/Saved/Autosaves/Game/Blueprints/Sensors_Alarms/BP_Lever_Auto7.uasset'
+[2023.12.28-09.32.28:190][588]LogFileHelpers: Auto-saving content packages took 0.142
