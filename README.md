@@ -37,3 +37,32 @@ Certainly! Here's the updated section:
 2. KHYATHI KANCHARLA - Database Management and Frontend Developer.
 3. VINAY PALAKONDA - UI/UX Developer.
 4. KESAVA MANIKANTA - 3D Modelling and Designing.
+
+# Project Progress Snapshots
+
+## 3D Model Prototype
+
+- ![model1](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/a079c981-b896-490f-b6ef-f30fefa7428d)
+
+- ![model2](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/9e2e5c33-55df-4d8d-b137-9ae5e4ca39ef)
+
+- ![model3](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/afde84df-b9ef-418d-8bef-dcc574baf54f)
+
+
+## AR Shooting Game Prototype
+
+- ![p1](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/5af11115-1f8c-414e-8d55-cf31b85c7d71)
+
+- 
+
+https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/899b1d67-a79f-422e-81b7-ba2e54cba112
+
+
+
+## Additional Links
+
+- **ARShield Website Link:** [[Add ARShield Website Link Here](add ARShield website link here)](https://saiharish820.github.io/ARSheild_Website/)
+- **Presentation Link (Figma):** [NEURAL REALM INNOVATORS RAJASTHAN HACKATHON](https://www.figma.com/proto/KxbGmLbCMHQ6aCX4hPkD8F/NEURAL-REALM-INNOVATORS-RAJASTHAN-HACKATHON?type=design&node-id=157-401&t=fBQ8EucleIXunG7W-0&scaling=scale-down-width&page-id=5%3A2&starting-point-node-id=157%3A401)
+
+
+
