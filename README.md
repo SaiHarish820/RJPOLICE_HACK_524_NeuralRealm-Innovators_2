@@ -66,3 +66,30 @@ https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/asset
 
 
 
+# Stealth Game Prototyoe
+
+## Screenshots of stealth game:
+
+![Game Title](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/fcf7e371-e4d7-4355-96f5-7267c5eb13a7)
+
+![Level-1(1)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/050d0221-d537-4fbb-8cb2-43b129d14c0d)
+
+![Level-1(2)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/7a6660ae-a7f5-4315-af5f-240daa62ade8)
+
+![Book Pic](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/da6837fd-dc8d-4e29-a413-4f56312fcba8)
+
+![Level-2(2)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/bc2a135a-fae2-4f96-8190-8115adec0679)
+
+![Level-2(1)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/b8175f6e-20e7-4867-a99f-8a472f67cae1)
+
+![Level-1(5)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/b201b2e4-df22-4cec-85e1-c1f9672d1f8e)
+
+![Level-1(4)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/e674b7ca-f309-404f-8b57-19790a7c1dc8)
+
+![Level-1(3)](https://github.com/SaiHarish820/RJPOLICE_HACK_524_NeuralRealm-Innovators_2/assets/110049566/c29c1da6-d831-404a-93e4-6999e2403c4d)
+
+
+
+
+
+
